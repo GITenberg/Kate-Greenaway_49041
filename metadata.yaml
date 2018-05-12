@@ -1,4 +1,8 @@
 _repo: Kate-Greenaway_49041
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 49041-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Spielmann, M. H. (Marion Harry)
@@ -11,6 +15,8 @@ creator:
     gutenberg_agent_id: '45107'
     url: http://www.gutenberg.org/2009/agents/45107
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49041#Kate-Greenaway
 gutenberg_issued: '2015-05-24'
 gutenberg_type: Text
 identifiers:
